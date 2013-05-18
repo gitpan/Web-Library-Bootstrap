@@ -1,8 +1,8 @@
 package Web::Library::Bootstrap;
 use Moose;
 with qw(Web::Library::Provider Web::Library::SimpleAssets);
-our $VERSION = '0.02';
-sub latest_version { '2.3.1' }
+our $VERSION = '0.03';
+sub latest_version { '2.3.2' }
 
 sub version_map {
 
@@ -43,17 +43,8 @@ methods for an explanation of the concept.
 =over 4
 
 =item Version 2.3.0
-
-      css/bootstrap-responsive.css
-      css/bootstrap-responsive.min.css
-      css/bootstrap.css
-    * css/bootstrap.min.css
-      img/glyphicons-halflings-white.png
-      img/glyphicons-halflings.png
-      js/bootstrap.js
-    * js/bootstrap.min.js
-
-=item Version 2.3.1 (the default)
+=item Version 2.3.1
+=item Version 2.3.2 (the default)
 
       css/bootstrap-responsive.css
       css/bootstrap-responsive.min.css

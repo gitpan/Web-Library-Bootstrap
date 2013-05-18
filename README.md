@@ -22,16 +22,8 @@ list - see [Web::Library](https://metacpan.org/module/Web::Library)'s `css_link_
 methods for an explanation of the concept.
 
 - Version 2.3.0
-
-          css/bootstrap-responsive.css
-          css/bootstrap-responsive.min.css
-          css/bootstrap.css
-        * css/bootstrap.min.css
-          img/glyphicons-halflings-white.png
-          img/glyphicons-halflings.png
-          js/bootstrap.js
-        * js/bootstrap.min.js
-- Version 2.3.1 (the default)
+=item Version 2.3.1
+=item Version 2.3.2 (the default)
 
           css/bootstrap-responsive.css
           css/bootstrap-responsive.min.css

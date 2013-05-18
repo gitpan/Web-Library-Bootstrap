@@ -20,6 +20,14 @@ share/2.3.1/img/glyphicons-halflings-white.png
 share/2.3.1/img/glyphicons-halflings.png
 share/2.3.1/js/bootstrap.js
 share/2.3.1/js/bootstrap.min.js
+share/2.3.2/css/bootstrap-responsive.css
+share/2.3.2/css/bootstrap-responsive.min.css
+share/2.3.2/css/bootstrap.css
+share/2.3.2/css/bootstrap.min.css
+share/2.3.2/img/glyphicons-halflings-white.png
+share/2.3.2/img/glyphicons-halflings.png
+share/2.3.2/js/bootstrap.js
+share/2.3.2/js/bootstrap.min.js
 t/basic.t
 META.yml                                 Module YAML meta-data (added by MakeMaker)
 META.json                                Module JSON meta-data (added by MakeMaker)
