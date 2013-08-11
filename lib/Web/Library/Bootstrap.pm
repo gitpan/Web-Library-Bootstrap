@@ -1,7 +1,7 @@
 package Web::Library::Bootstrap;
 use Moose;
 with qw(Web::Library::Provider Web::Library::SimpleAssets);
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 sub latest_version { '2.3.2' }
 
 sub version_map {
