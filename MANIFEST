@@ -32,5 +32,15 @@ share/2.3.2/img/glyphicons-halflings-white.png
 share/2.3.2/img/glyphicons-halflings.png
 share/2.3.2/js/bootstrap.js
 share/2.3.2/js/bootstrap.min.js
+share/3.0.3/css/bootstrap-theme.css
+share/3.0.3/css/bootstrap-theme.min.css
+share/3.0.3/css/bootstrap.css
+share/3.0.3/css/bootstrap.min.css
+share/3.0.3/fonts/glyphicons-halflings-regular.eot
+share/3.0.3/fonts/glyphicons-halflings-regular.svg
+share/3.0.3/fonts/glyphicons-halflings-regular.ttf
+share/3.0.3/fonts/glyphicons-halflings-regular.woff
+share/3.0.3/js/bootstrap.js
+share/3.0.3/js/bootstrap.min.js
 t/basic.t
 t/release-pod-syntax.t

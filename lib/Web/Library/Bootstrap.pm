@@ -1,8 +1,8 @@
 package Web::Library::Bootstrap;
 use Moose;
 with qw(Web::Library::Provider Web::Library::SimpleAssets);
-our $VERSION = '0.04';
-sub latest_version { '2.3.2' }
+our $VERSION = '0.05';
+sub latest_version { '3.0.3' }
 
 sub version_map {
 
@@ -44,7 +44,7 @@ methods for an explanation of the concept.
 
 =item Version 2.3.0
 =item Version 2.3.1
-=item Version 2.3.2 (the default)
+=item Version 2.3.2
 
       css/bootstrap-responsive.css
       css/bootstrap-responsive.min.css
@@ -52,6 +52,19 @@ methods for an explanation of the concept.
     * css/bootstrap.min.css
       img/glyphicons-halflings-white.png
       img/glyphicons-halflings.png
+      js/bootstrap.js
+    * js/bootstrap.min.js
+
+=item Version 3.0.3 (the default)
+
+      css/bootstrap-theme.css
+      css/bootstrap-theme.min.css
+      css/bootstrap.css
+    * css/bootstrap.min.css
+      fonts/glyphicons-halflings-regular.eot
+      fonts/glyphicons-halflings-regular.svg
+      fonts/glyphicons-halflings-regular.ttf
+      fonts/glyphicons-halflings-regular.woff
       js/bootstrap.js
     * js/bootstrap.min.js
 

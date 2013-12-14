@@ -17,13 +17,25 @@ LIBRARY VERSIONS
     versions' asset list - see Web::Library's "css_link_tags_for()" and
     "script_tags_for()" methods for an explanation of the concept.
 
-    Version 2.3.0 =item Version 2.3.1 =item Version 2.3.2 (the default)
+    Version 2.3.0 =item Version 2.3.1 =item Version 2.3.2
               css/bootstrap-responsive.css
               css/bootstrap-responsive.min.css
               css/bootstrap.css
             * css/bootstrap.min.css
               img/glyphicons-halflings-white.png
               img/glyphicons-halflings.png
+              js/bootstrap.js
+            * js/bootstrap.min.js
+
+    Version 3.0.3 (the default)
+              css/bootstrap-theme.css
+              css/bootstrap-theme.min.css
+              css/bootstrap.css
+            * css/bootstrap.min.css
+              fonts/glyphicons-halflings-regular.eot
+              fonts/glyphicons-halflings-regular.svg
+              fonts/glyphicons-halflings-regular.ttf
+              fonts/glyphicons-halflings-regular.woff
               js/bootstrap.js
             * js/bootstrap.min.js
 

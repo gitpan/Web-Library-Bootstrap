@@ -1,5 +1,9 @@
 Revision history for Perl extension Web-Library-Bootstrap
 
+0.05  2013-12-14 17:23:32 CET
+    [New Features]
+        - Added Bootstrap 3.0.3
+
 0.04  2013-08-11 21:15:07 CEST
     [Improvements]
         - Converted to Dist::Milla
